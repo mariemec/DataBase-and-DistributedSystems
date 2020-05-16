@@ -4,7 +4,9 @@ S3 - APP1:  Distributed Systems, SQL queries (PostgreSQL), Architectures, settin
 Prerequisites: PostgreSQL installed.
 
 NEW THINGS LEARNED:
+
 Connaissances déclaratives (quoi)
+
 — Systèmes répartis, Couplage, Transparence, Hétérogénéité, Architecture (En couche, Par évènement, Micro-Kernel, en nuage)
 Bases de données, SGBD : Système de gestion de bases de données relationnelles, Modèle Entité-Relation (conceptuel)
 Entité, Attributs, Lien, Clé primaire, Clé candidate, Schéma (Modèle) relationnel, Relation, Attributs, "N-Tuple",Formes Normales
